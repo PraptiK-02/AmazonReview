@@ -102,4 +102,3 @@ This model can be used to:
 
 ---
 
-## 📁 Repository Structure
